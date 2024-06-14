@@ -1,5 +1,6 @@
 Project Overview
 The Atmosphere App is a weather application that allows users to find the weather for any city. It is built using React and deployed on Netlify.
+
 Screenshot
 Atmosphere App Screenshot
 Features
