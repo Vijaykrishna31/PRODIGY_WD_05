@@ -68,7 +68,7 @@ const App = () => {
     fetchImage();
     document.querySelector(".input-group input").value = '';
 
-  }, [city]);
+  }, [city,weatherURL]);
 
   const handleSearch = () => {
     const cityInput = document.querySelector(".input-group input").value.trim();
